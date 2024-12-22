@@ -1,0 +1,58 @@
+journal_papers:
+  - authors: "Sun, K., & Liu, H."
+    year: 2024
+    title: "Attention-aware semantic relevance predicting Chinese sentence reading"
+    journal: "Cognition"
+    doi: "https://doi.org/10.1016/j.cognition.2024.105991"
+
+  - authors: "Sun, K., Wang, R., and Baayen, H."
+    year: 2024
+    title: "Attention-aware measures of semantic relevance for predicting human reading behavior"
+    journal: "Linguistics"
+    note: "to appear"
+    preprint: "https://osf.io/ghsq4/"
+
+  - authors: "Liu, Y., Yan, Y., Xia, H., & Sun, K."
+    year: 2023
+    title: "Analysing the longitudinal course selection panel data (2014-2020) of K-12 teachers from Zhejiang province: a comprehensive study on in-service training needs"
+    journal: "Professional Development in Education"
+    doi: "https://doi.org/10.1080/19415257.2023.2241874"
+
+conference_papers:
+  - authors: "Sun, K., Wang, R."
+    year: 2025
+    title: "Enhancing Personality Detection Models with Continuous Outputs Through Mixed Strategy Training"
+    conference: "39th AAAI Conference"
+    note: "passed the first round"
+    arxiv: "arXiv.2406.16223"
+
+  - authors: "Sun, K., Wang, R."
+    year: 2023
+    title: "A Groundbreaking dependency framework for streamlining discourse corpora"
+    conference: "The 18th Linguistic Annotation Workshop"
+    location: "Malta"
+
+  - authors: "Sun, K., Wang, R."
+    year: 2023
+    title: "Attention-aware sentence-level metrics predicting human sentence comprehension"
+    conference: "The 5th China-Germany Intelligent Robotics Conference"
+    location: "Tuebingen"
+    note: "keynote speaker"
+
+preprints:
+  - authors: "Sun, K., & Wang, R."
+    year: 2024
+    title: "The roles of contextual semantic relevance metrics in human visual processing"
+    note: "sent out for reviewing by Psychological Review"
+    arxiv: "arXiv.2403.19233"
+
+  - authors: "Sun, K., & Wang, R."
+    year: 2024
+    title: "Tracking neural dynamics of language comprehension: Semantic integration and lexical expectation during naturalistic discourse reading across extensive EEG channels"
+    note: "Under review by NeuroImage"
+
+  - authors: "Sun, K., and Wang, R."
+    year: 2024
+    title: "Differential contributions of machine learning and statistical analysis to language and cognitive sciences"
+    note: "submitted the revised version to Psychological Methods"
+    arxiv: "arXiv.2404.14052"
